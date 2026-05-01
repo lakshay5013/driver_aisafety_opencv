@@ -1,0 +1,9 @@
+path: ./backend/dataset
+train: images/train
+val: images/val
+
+names:
+  0: safe
+  1: phone
+  2: drowsy
+  3: looking_away
